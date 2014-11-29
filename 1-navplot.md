@@ -18,6 +18,21 @@ thermal cross country flights. You can see an
 (again!) Unfortunately old versions of Navplot no longer work.
 Please upgrade to the latest version.
 
+## Download
+
+For Windows users there is a
+[setup program]({{site-url}}/assets/navplot/setup.exe)
+that will install NavPlot to your machine and provide a simple GUI for you to
+select and display the NOTAMS.
+
+* [Download setup.exe]({{site-url}}/assets/navplot/setup.exe)
+
+The software has been tested on Windows 7 and Windows XP.
+
+If you have any other operating system you can download the
+[source code](https://github.com/ahsparrow/navplot) from github and use the
+eadplot.py python script directly from the command line.
+
 ## Using the software
 
 Before using NavPlot you must register with the Eurocontrol
@@ -44,22 +59,6 @@ set the lower left corner of the map and its width.
 NavPlot is not meant to replace an official briefing - it
 should only be used as an aid to interpretion. If you go somewhere
 you shouldn't have gone after using this software don't blame me!
-
-## Download
-
-For Windows users there is a
-[setup program]({{site-url}}/assets/navplot/setup.exe)
-that will install NavPlot to your machine and provide a simple GUI for you to
-select and display the NOTAMS.
-
-* [Download setup.exe]({{site-url}}/assets/navplot/setup.exe)
-
-The software has been tested on Windows 7, Windows Vista, Windows XP
-and Windows 2000.
-
-If you have any other operating system you can download the
-[source code](https://github.com/ahsparrow/navplot) from github and use the
-eadplot.py python script directly from the command line.
 
 ## Version
 
