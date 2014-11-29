@@ -77,7 +77,7 @@ to work with plastic bags.
 
 #### Plastic Bag method
 
-![Plastic bag method]({{site-url}}/assets/funnel.png)
+![Plastic bag method]({{site-url}}/assets/funnel.jpg)
 
 Cut most of the
 base out of the bottle leaving a bit of a rim to give the "funnel" some
@@ -172,7 +172,7 @@ them. His email address is MagicRoland at compuserve dot com
 
 #### Model K
 
-![Model K]({{site-url}}/assets/model_k.png)
+![Model K]({{site-url}}/assets/model_k.jpg)
 
 Unfortunately we do not have a proper English description of the device, but I
 have attached a number of photographs that should pretty much explain how the
@@ -191,7 +191,7 @@ via the screw on connectors of the tubing and rinsed with water. Be careful not
 to lose the O-rings in the connectors on doing so. At this stage it is possible
 to add a mild disinfectant as well.
 
-![Model K close-up]({{site-url}}/assets/model_k_closeup.png)
+![Model K close-up]({{site-url}}/assets/model_k_closeup.jpg)
 
 ## Internal Fitments
 
@@ -201,7 +201,7 @@ The in-flight toilet consists of a moulded bit, a vacuum valve connection, an
 extension hose and 10 urine bags. The urine bags are available in any (German)
 pharmacy.
 
-![In-flight closeup]({{site-url}}/assets/in_flight_closeup.png)
+![In-flight closeup]({{site-url}}/assets/in_flight_closeup.jpg)
 
 The moulded bit is made of 100% soft silicone and is placed in front
 of the urinary passage. After use the moulded bit can be cleaned with soap or
@@ -213,7 +213,7 @@ Connect the urine bag to the extension hose.
 We recommend that you also use pant liners as a few drops can remain in the
 moulded bit and may leak
 
-![In-flight]({{site-url}}/assets/in_flight.png)
+![In-flight]({{site-url}}/assets/in_flight.jpg)
 
 Cost: &euro;84 plus postage and bank fees.  Order by email. Payment by
 bank transfer.
