@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In-flight Plumbing
+title: In-Flight Plumbing
 permalink: /plumbing/
 ---
 
