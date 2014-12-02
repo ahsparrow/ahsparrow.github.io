@@ -1,0 +1,3 @@
+[submodule "igcapp"]
+	path = igcapp
+	url = https://github.com/ahsparrow/igcapp
