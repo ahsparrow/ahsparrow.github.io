@@ -11,7 +11,7 @@ En-route and Navigation Warning Notams from the Eurocontrol
 [EAD Basic](http://www.ead.eurocontrol.int/). The software creates a PDF
 file to display a map of Notams in a format suitable for glider pilots on
 thermal cross country flights. You can see an
-[example here]({{site-url}}assets/navplot_example.pdf)
+[example here]({{site-url}}assets/navplot/navplot_example.pdf)
 
 ## News
 **3 July 09** - EAD have changed the authentication procedure
