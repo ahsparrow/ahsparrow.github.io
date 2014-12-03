@@ -7,7 +7,7 @@ permalink: /navplot/
 Graphical NOTAM software for the UK
 
 NavPlot is a program to download and format low level (less than FL100)
-En-route and Navigation Warning Notams from the Eurocontrol
+En-route and Navigation Warning Notams from Eurocontrol
 [EAD Basic](http://www.ead.eurocontrol.int/). The software creates a PDF
 file to display a map of Notams in a format suitable for glider pilots on
 thermal cross country flights. You can see an
@@ -21,9 +21,7 @@ Old versions of Navplot no longer work. Please upgrade to the latest version.
 ## Download
 
 For Windows users there is a
-[setup program]({{site-url}}/assets/navplot/setup.exe)
-that will install NavPlot to your machine and provide a simple GUI for you to
-select and display the NOTAMS.
+[setup program]({{site-url}}/assets/navplot/setup.exe) to install NavPlot.
 
 * [Download setup.exe]({{site-url}}/assets/navplot/setup.exe)
 
@@ -32,10 +30,8 @@ The software has been tested on Windows 7 and Windows XP.
 ## Using the software
 
 Before using NavPlot you must register with the Eurocontrol
-[EAD Basic](http://www.ead.eurocontrol.int/) website to
-get a username and password. (You must also agree to Eurocontrol's
-terms and conditions.) Your username and password should be entered
-on the Settings tab of the program.
+[EAD Basic](http://www.ead.eurocontrol.int/) website. Your username and
+password should be entered on the Settings tab of the program.
 
 **IMPORTANT - From the EAD Basic home page select the
 "My Profile/Password" option and make sure Application Access mode
@@ -53,8 +49,8 @@ changing the map coordinates in the Settings tab.  The coordinates
 set the lower left corner of the map and its width.
 
 NavPlot is not meant to replace an official briefing - it
-should only be used as an aid to interpretion. If you go somewhere
-you shouldn't have gone after using this software don't blame me!
+should only be used as an aid to interpretion. Don't blame me if you go
+somewhere you shouldn't have gone after using this software!
 
 ## Version
 
