@@ -14,9 +14,9 @@ thermal cross country flights. You can see an
 [example here]({{site-url}}/assets/navplot/navplot_example.pdf)
 
 ## News
-**3 July 09** - EAD have changed the authentication procedure
-(again!) Unfortunately old versions of Navplot no longer work.
-Please upgrade to the latest version.
+
+**3 December 14** - EAD have changed their server configuration.
+Old versions of Navplot no longer work. Please upgrade to the latest version.
 
 ## Download
 
@@ -28,10 +28,6 @@ select and display the NOTAMS.
 * [Download setup.exe]({{site-url}}/assets/navplot/setup.exe)
 
 The software has been tested on Windows 7 and Windows XP.
-
-If you have any other operating system you can download the
-[source code](https://github.com/ahsparrow/navplot) from github and use the
-eadplot.py python script directly from the command line.
 
 ## Using the software
 
@@ -62,15 +58,11 @@ you shouldn't have gone after using this software don't blame me!
 
 ## Version
 
-3 Jul 2009  - Version 0.5.2 EAD website changes.  
+3 Dec 2014 - Version 0.5.4 EAD website changes.  
+3 Jul 2009 - Version 0.5.2 EAD website changes.  
 19 Feb 2009 - Version 0.5.1 Improved error message.  
 14 Feb 2009 - Version 0.5 EAD website changes.  
-9 Apr 2008  - Version 0.4 Changed Notam data source from NATS to EAD.  
+9 Apr 2008 - Version 0.4 Changed Notam data source from NATS to EAD.  
 18 Jan 2007 - Version 0.3.2 Airspace update.  
 8 June 2006 - Version 0.3 Display RAC's as well as NAVW's.  
 19 Feb 2006 - Version 0.2 Added airspace data.
-
-## Acknowledgements
-
-Thanks to everyone who has suggested improvements or reported bugs.
-
