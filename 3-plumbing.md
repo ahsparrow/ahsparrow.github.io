@@ -6,8 +6,8 @@ permalink: /plumbing/
 
 Liz's collected information for women pilots.
 
-(Note: this information is now (Dec 2014) several years old - some of may
-be out-of-date.)
+*This information is now (Dec 2014) several years old. Some details may
+be wrong*
 
 ## Introduction
 
