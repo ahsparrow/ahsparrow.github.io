@@ -6,6 +6,9 @@ permalink: /plumbing/
 
 Liz's collected information for women pilots.
 
+(Note: this information is now (Dec 2014) several years old - some of may
+be out-of-date.)
+
 ## Introduction
 
 Systems seem to fall into three categories, broadly describable as
