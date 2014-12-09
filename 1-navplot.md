@@ -16,12 +16,12 @@ thermal cross country flights. You can see an
 ## News
 
 **3 December 14** - EAD have changed their server configuration.
-Old versions of Navplot no longer work. Please upgrade to the latest version.
+Old versions of Navplot no longer work. Please install the latest version.
 
 ## Download
 
 For Windows users there is a
-[setup program]({{site-url}}/assets/navplot/setup.exe) to install NavPlot.
+[setup program]({{site-url}}/assets/navplot/setup.exe) to install the latest version of NavPlot.
 
 * [Download setup.exe]({{site-url}}/assets/navplot/setup.exe)
 
