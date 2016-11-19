@@ -8,4 +8,4 @@ Wifefinder is a simple Android app to track individual airfraft via the OGN
 Flarm network.
 
 You can download the app
-<a href="{{site-url}}/assets/wifefinder/wifefinder-release.apk" target="_blank">here</a>.
+<a href="https://github.com/ahsparrow/wifefinder/releases/tag/v1.0" target="_blank">here</a>.
