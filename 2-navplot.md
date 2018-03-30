@@ -6,8 +6,8 @@ permalink: /navplot/
 
 ### Graphical NOTAM software for the UK.
 
-The old standalone Windows Navplot program has been retired. Instead
-pre-generate briefings for the next two days can be downloaded from the
+The old standalone Windows Navplot program has been retired. It has been
+replaced by pre-generated briefings which can be downloaded from the
 [ASSelect](https://asselect.uk) web site.
 
 Note - NavPlot is not meant to replace an official briefing - it
