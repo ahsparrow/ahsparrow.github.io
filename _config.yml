@@ -1,9 +1,9 @@
 # Site settings
 title: Freeflight
 email: web@freeflight.org.uk
-description: "Alan Sparrow's website. Navplot and other things."
+description: "Alan Sparrow"
 baseurl: ""
-url: "http://www.freeflight.org.uk"
+url: "http://freeflight.org.uk"
 twitter_username: ahsparrow
 github_username:  ahsparrow
 
