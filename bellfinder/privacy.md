@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bell Finder
+title: Bell Finder Privacy Policy
 permalink: /bellfinder/privacy/
 ---
 
-### Bell Finder Privacy Policy
+### Privacy Policy
 
 * What information is collected?
 
@@ -16,11 +16,12 @@ permalink: /bellfinder/privacy/
 * How is the information used?
 
     * Tower visits are stored locally on your device and are only
-    used by the Bell Finder app to display the details of your tower visits.
+    used by the Bell Finder app to display the details of your previous
+    tower visits.
 
-    * Location is used by the Bell Finder to download and display the
-    appropriate map tiles surrounding your location. Your actual location
-    information is not transmitted to anyone.
+    * Location is used by the Bell Finder to download the necessary map tiles
+    to display the area surrounding your location. Your actual location
+    is not shared.
 
 * What information is shared?
 
