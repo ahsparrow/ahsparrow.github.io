@@ -5,7 +5,8 @@ permalink: /bellfinder/
 ---
 
 Bell Finder is an Android app showing a directory of bell towers for
-English style change ringing.
+English style change ringing. For more details see
+[Google Play](https://play.google.com/store/apps/details?id=uk.org.freeflight.bellfinder)
 
 ### Privacy Policy
 
