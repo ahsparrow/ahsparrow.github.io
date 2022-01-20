@@ -8,20 +8,20 @@ permalink: /bellfinder/privacy/
 
     * Bell Finder can record details of your tower visits.
 
-    * Bell Finder uses your location information to find the towers
-    closest to your current location and to display your position on a map.
+    * Bell Finder uses your device's location.
 
 * How is the information used?
 
     * Tower visits are stored locally on your device and are only
-    used by the Bell Finder app itself to display details of your previous
+    used by the Bell Finder app itself to display details of previous
     tower visits.
 
-    * Location is used by Bell Finder to download map tiles
-    to display a map of the area surrounding your location. Your actual
-    location is not shared.
+    * Your location is used by Bell Finder to query a local database of bell
+    tower posititions, and can also be used to download map tiles to build a
+    map of the area surrounding your location. Your actual location is not
+    shared.
 
 * What information is shared?
 
     * No information is shared with either Bell Finder's developer or
-    any other third party.
+    any other party.
